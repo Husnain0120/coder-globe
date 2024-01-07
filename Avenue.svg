@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131" height="115" viewBox="0 0 131 115">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 175 32">
+      <image width="175" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAgCAMAAABTqthKAAAAe1BMVEUAAACEuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2EuU2shiqUAAAAKHRSTlMAYKDAgDBvkCBQQLAH+vU649QY6RLO7ie1m5VGLdp8W8i7hnYNS6pUafhIJQAAAxlJREFUWMO1mOmiqiAUhbfZYOVQZjbYYB3r8P5PeC+oLQjkmNr6U8xfsjcLI1VJyP4rjKviiJdGZFQkeiZENGWaPN5jxszDJ69qj39bvhqw5oR/GzNN9KafsvoizxzERt4lbzvSn7xs+j1ef1VWb/yqwuWluwnXEx13LXiD6Gu817reqSoevJAWpOvIW/bUgpdt4m/xbuv6dV1zxo4aAn0B3rMrK5Z5We53510r85Kihdg+QZIRSSxExkDfSn0crQt42bE77xwt5hQ6SDtNVKQYpAW604J3g/gamnfHuE7VR1V55wWXTIG+8lvw/opfFk4G5kUK1Y+5qowDXopMgX6hFryLiZhglQzOm9SBG9WnLsY/DYEeJq14yWFctyF5kULr19MbK57hkaw9kuhvXjoI4HtPXksKXRXPuPHSTA/0XVteP2dYeRheQAK92TOOWKYNL8UbET+7fryWFPqxeAa8QuE9OC9l77y0CMSERQfeGeaNGlOo0D1jha4XeIXRj12VF12W/fx4ZLhuYSmktJ+Kg5Tqotjda2teULBLf15zCnmB5hl53ebAK9rzFmvRlA3BC69A+YkO754hVv6hz3jJE5uUej15zSlk84wMgd4233DMsK0/QL4hhaBc9owTPANe0fY8wxqCs+95hgP3Npa0b/CMEwL9A16kNJtKvAkSQ+11svM6zCDNM8KCKnNdUhfe5Fy+HoHXD/hDoVpIj9jOu23iPZOSZEi9Lrx0CsWmPQQvpo2098KUrLwL1qjH2yE2RqB/zku/TEwD3pl6LNX797Tz7pt5b6pJVB9deFHFwBsh6uRTZG7l3ZWD5m+6yu8Z1YOFV3TjJRe8KAfT1waEuLk08h6UTbF6Rgqv6MYbr1TeU1BuYyae9rJsyyy8ulfonoFfpXmF9X3eNG8UgFc2x3C9TRnDzd78Pq97heYZd9kztKu7/f8S8EIOeHE50Wy3+f8SpJCmuXJTv4GlMy82aoThgTL0QnZeUwoZb+oZE3pST14/V3lpt8RAd0I2XjiBUVPdM1jUl5e8TcUL4rGbMpbmd9A28P4DAl8+kv3CJHAAAAAASUVORK5CYII="></image>
+    </pattern>
+  </defs>
+  <g id="Avenue" transform="translate(-6962 -470)">
+    <rect id="Rectangle_3892" data-name="Rectangle 3892" width="131" height="115" transform="translate(6962 470)" fill="#fff" opacity="0"></rect>
+    <rect id="logo-h" width="123" height="22" transform="translate(6966 517)" fill="url(#pattern)"></rect>
+  </g>
+</svg>

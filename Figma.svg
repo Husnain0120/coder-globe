@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Figma" transform="translate(-2347 2748)">
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="150" height="150" transform="translate(2347 -2748)" fill="#fff" opacity="0"></rect>
+    <g id="figma-2" data-name="figma" transform="translate(2286.266 -2748)">
+      <path id="Path_36" data-name="Path 36" d="M256.6,196.508a25.841,25.841,0,1,1,25.841,25.841A25.841,25.841,0,0,1,256.6,196.508Z" transform="translate(-123.196 -121.508)" fill="#00bcff"></path>
+      <path id="Path_37" data-name="Path 37" d="M85.932,350.437A25.841,25.841,0,0,1,111.773,324.6l13.771-7.271,12.07,7.271v25.841a25.841,25.841,0,0,1-51.682,0Z" transform="translate(-0.835 -226.278)" fill="#00cf7f"></path>
+      <path id="Path_38" data-name="Path 38" d="M224.226,0,210.165,24.429l14.061,27.253h25.479a25.841,25.841,0,0,0,0-51.682Z" transform="translate(-90.824 0)" fill="#ff7361"></path>
+      <path id="Path_39" data-name="Path 39" d="M84.734,25.841a25.841,25.841,0,0,0,25.841,25.841l13.708,5.295,12.5-5.295V0h-26.2A25.841,25.841,0,0,0,84.734,25.841Z" fill="#ff4d12"></path>
+      <path id="Path_40" data-name="Path 40" d="M85.932,196.507a25.841,25.841,0,0,0,25.841,25.841h25.841V170.666H111.773A25.841,25.841,0,0,0,85.932,196.507Z" transform="translate(-0.835 -121.507)" fill="#b659ff"></path>
+    </g>
+  </g>
+</svg>

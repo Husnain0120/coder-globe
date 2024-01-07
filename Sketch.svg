@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Sketch" transform="translate(-2222 2446)">
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="150" height="150" transform="translate(2222 -2446)" fill="#fff" opacity="0"></rect>
+    <g id="sketchapp-icon" transform="translate(2221.317 -2442.086)">
+      <path id="Path_27" data-name="Path 27" d="M32.724,4.428,74.994,0l42.27,4.428,32.727,43.533L75,134.5,0,47.961Z" transform="translate(0.683 3.086)" fill="#fdb300" fill-rule="evenodd"></path>
+      <g id="Group_64" data-name="Group 64" transform="translate(0.683 51.822)">
+        <path id="Path_28" data-name="Path 28" d="M30.29,0,74.778,85.767,0,0Z" transform="translate(0 0)" fill="#ea6c00" fill-rule="evenodd"></path>
+        <path id="Path_29" data-name="Path 29" d="M30.29,85.767,74.781,0,0,85.767Z" transform="translate(150 85.767) rotate(180)" fill="#ea6c00" fill-rule="evenodd"></path>
+      </g>
+      <path id="Path_30" data-name="Path 30" d="M0,0H88.8L44.4,85.767Z" transform="translate(30.508 51.822)" fill="#fdad00" fill-rule="evenodd"></path>
+      <g id="Group_65" data-name="Group 65" transform="translate(30.508 3.086)">
+        <path id="Path_31" data-name="Path 31" d="M43.65,0,2.295,4.462,0,48.34Z" transform="translate(0 0)" fill="#fdd231" fill-rule="evenodd"></path>
+        <path id="Path_32" data-name="Path 32" d="M43.65,48.34,2.295,43.878,0,0Z" transform="translate(88.775 48.34) rotate(180)" fill="#fdd231" fill-rule="evenodd"></path>
+      </g>
+      <g id="Group_66" data-name="Group 66" transform="translate(0.684 7.764)">
+        <path id="Path_33" data-name="Path 33" d="M0,0,32.717,43.665,30.369,0Z" transform="translate(149.999 43.665) rotate(180)" fill="#fdad00" fill-rule="evenodd"></path>
+        <path id="Path_34" data-name="Path 34" d="M0,43.665,32.714,0,30.367,43.665Z" transform="translate(0 0)" fill="#fdad00" fill-rule="evenodd"></path>
+      </g>
+      <path id="Path_35" data-name="Path 35" d="M44.4,0,0,48.34H88.8Z" transform="translate(30.509 3.086)" fill="#feeeb7" fill-rule="evenodd"></path>
+    </g>
+  </g>
+</svg>

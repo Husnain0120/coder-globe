@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="115" viewBox="0 0 131 115">
+  <g id="QR_CODE" data-name="QR CODE" transform="translate(-6962 -23)">
+    <rect id="Rectangle_3890" data-name="Rectangle 3890" width="131" height="115" transform="translate(6962 23)" fill="#fff" opacity="0"></rect>
+    <g id="QR" transform="translate(-3894.678 2202.185)">
+      <rect id="Rectangle_3867" data-name="Rectangle 3867" width="104" height="104" transform="translate(10871.679 -2173.185)" fill="#fff" opacity="0"></rect>
+      <g id="Group_3970" data-name="Group 3970" transform="translate(10870 -2169.586)">
+        <g id="Group_3967" data-name="Group 3967" transform="translate(14.701 17.151)">
+          <rect id="Rectangle_3868" data-name="Rectangle 3868" width="4.165" height="63.214" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3869" data-name="Rectangle 3869" width="4.165" height="63.214" transform="translate(6.371)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3870" data-name="Rectangle 3870" width="1.592" height="63.214" transform="translate(12.619)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3871" data-name="Rectangle 3871" width="1.592" height="63.214" transform="translate(22.786)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3872" data-name="Rectangle 3872" width="1.592" height="63.214" transform="translate(32.833)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3873" data-name="Rectangle 3873" width="1.592" height="63.214" transform="translate(36.63)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3874" data-name="Rectangle 3874" width="1.592" height="63.214" transform="translate(53.046)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3875" data-name="Rectangle 3875" width="1.592" height="63.214" transform="translate(60.642)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3876" data-name="Rectangle 3876" width="1.592" height="63.214" transform="translate(56.844)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3877" data-name="Rectangle 3877" width="1.592" height="63.214" transform="translate(64.44)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3878" data-name="Rectangle 3878" width="1.592" height="63.214" transform="translate(68.114)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3879" data-name="Rectangle 3879" width="4.165" height="63.214" transform="translate(26.584)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3880" data-name="Rectangle 3880" width="4.165" height="63.214" transform="translate(16.416)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3881" data-name="Rectangle 3881" width="4.165" height="63.214" transform="translate(40.428)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3882" data-name="Rectangle 3882" width="4.165" height="63.214" transform="translate(46.798)" fill="#1a1a1a"></rect>
+          <rect id="Rectangle_3883" data-name="Rectangle 3883" width="4.165" height="63.214" transform="translate(71.912)" fill="#1a1a1a"></rect>
+        </g>
+        <g id="Group_3968" data-name="Group 3968" transform="translate(0 45.821)">
+          <rect id="Rectangle_3884" data-name="Rectangle 3884" width="105.357" height="5.88" rx="2.94" transform="translate(0 0)" fill="#fe0000"></rect>
+        </g>
+        <g id="Group_3969" data-name="Group 3969" transform="translate(3.971 0)">
+          <path id="Path_18525" data-name="Path 18525" d="M11799.439-3235.29h-9.326s-9.414-.339-9.414,9.637v9.413" transform="translate(-11780.699 3235.292)" fill="none" stroke="#c0c1c3" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path>
+          <path id="Path_18526" data-name="Path 18526" d="M11799.439-3216.229h-9.326s-9.414.339-9.414-9.637v-9.413" transform="translate(-11780.699 3313.858)" fill="none" stroke="#c0c1c3" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity="0.9"></path>
+          <path id="Path_18527" data-name="Path 18527" d="M11780.6-3235.29h9.331s9.413-.339,9.413,9.637v9.413" transform="translate(-11701.914 3235.292)" fill="none" stroke="#c0c1c3" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"></path>
+          <path id="Path_18528" data-name="Path 18528" d="M11780.6-3216.229h9.331s9.413.339,9.413-9.637v-9.413" transform="translate(-11701.914 3313.858)" fill="none" stroke="#c0c1c3" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity="0.9"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
